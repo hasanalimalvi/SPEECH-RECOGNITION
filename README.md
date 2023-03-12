@@ -1,5 +1,5 @@
 # SPEECH RECOGNITION 
-It is ML model which converts data in audio format to textual format. You can call it  basic version of *Google Audio Search* . 
+It is a basic python program which use API to convert audio to text.
 
 ## 1. Read and Write Audio Files 
 
