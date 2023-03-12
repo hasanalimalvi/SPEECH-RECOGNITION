@@ -1,0 +1,794 @@
+[
+    {
+        "text": "Are we bringing it to the game?",
+        "start": 2330,
+        "end": 3840,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9070957899093628,
+        "speaker": null
+    },
+    {
+        "text": "Yeah.",
+        "start": 4530,
+        "end": 5086,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5491448640823364,
+        "speaker": null
+    },
+    {
+        "text": "I don't want to leave it.",
+        "start": 5188,
+        "end": 6560,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.47040700912475586,
+        "speaker": null
+    },
+    {
+        "text": "And maybe we're going to the game.",
+        "start": 6930,
+        "end": 9120,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7798295617103577,
+        "speaker": null
+    },
+    {
+        "text": "Where are we going now?",
+        "start": 11410,
+        "end": 12750,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8919774293899536,
+        "speaker": null
+    },
+    {
+        "text": "I see someone about my job.",
+        "start": 12900,
+        "end": 14880,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7665233016014099,
+        "speaker": null
+    },
+    {
+        "text": "I don't understand.",
+        "start": 15730,
+        "end": 16800,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9145789742469788,
+        "speaker": null
+    },
+    {
+        "text": "You understand what?",
+        "start": 17490,
+        "end": 18766,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5314674377441406,
+        "speaker": null
+    },
+    {
+        "text": "Are we going to the game?",
+        "start": 18868,
+        "end": 20480,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9077306985855103,
+        "speaker": null
+    },
+    {
+        "text": "I said possibly we're going to the game.",
+        "start": 20850,
+        "end": 23406,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8689356446266174,
+        "speaker": null
+    },
+    {
+        "text": "Do you know what possibly means?",
+        "start": 23588,
+        "end": 24982,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7710211873054504,
+        "speaker": null
+    },
+    {
+        "text": "Like probably.",
+        "start": 25076,
+        "end": 26118,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6557915210723877,
+        "speaker": null
+    },
+    {
+        "text": "No, probably means there's a good chance that we're gone.",
+        "start": 26284,
+        "end": 29030,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6091299653053284,
+        "speaker": null
+    },
+    {
+        "text": "Possibly means we might, we might not.",
+        "start": 29100,
+        "end": 31720,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7409259676933289,
+        "speaker": null
+    },
+    {
+        "text": "What does probably mean?",
+        "start": 32170,
+        "end": 33542,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7905414700508118,
+        "speaker": null
+    },
+    {
+        "text": "It means we have a good chance.",
+        "start": 33676,
+        "end": 35318,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9207661747932434,
+        "speaker": null
+    },
+    {
+        "text": "And what does possibly mean?",
+        "start": 35404,
+        "end": 36950,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7519217729568481,
+        "speaker": null
+    },
+    {
+        "text": "I know what it means.",
+        "start": 37100,
+        "end": 38346,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6592475175857544,
+        "speaker": null
+    },
+    {
+        "text": "What does it mean?",
+        "start": 38448,
+        "end": 39418,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7987048029899597,
+        "speaker": null
+    },
+    {
+        "text": "It means that we're not going to the game.",
+        "start": 39504,
+        "end": 42380,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6845753192901611,
+        "speaker": null
+    },
+    {
+        "text": "How did you get so smart?",
+        "start": 43870,
+        "end": 45606,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5502657890319824,
+        "speaker": null
+    },
+    {
+        "text": "You're smart.",
+        "start": 45798,
+        "end": 46970,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7557975649833679,
+        "speaker": null
+    },
+    {
+        "text": "Are we there?",
+        "start": 52190,
+        "end": 53326,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.847707211971283,
+        "speaker": null
+    },
+    {
+        "text": "Yeah.",
+        "start": 53508,
+        "end": 54240,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5491448640823364,
+        "speaker": null
+    },
+    {
+        "text": "Mr.",
+        "start": 60370,
+        "end": 60782,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5849316716194153,
+        "speaker": null
+    },
+    {
+        "text": "Ribbon.",
+        "start": 60836,
+        "end": 61482,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7453066110610962,
+        "speaker": null
+    },
+    {
+        "text": "Yes?",
+        "start": 61626,
+        "end": 62078,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.71159428358078,
+        "speaker": null
+    },
+    {
+        "text": "How are you, sir?",
+        "start": 62164,
+        "end": 62926,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8076331615447998,
+        "speaker": null
+    },
+    {
+        "text": "Chris Gardner.",
+        "start": 62948,
+        "end": 63870,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8263341784477234,
+        "speaker": null
+    },
+    {
+        "text": "Dean Witter.",
+        "start": 64210,
+        "end": 65390,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.790036678314209,
+        "speaker": null
+    },
+    {
+        "text": "Oh, hi.",
+        "start": 65730,
+        "end": 66766,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6514450311660767,
+        "speaker": null
+    },
+    {
+        "text": "This is my son, Christopher.",
+        "start": 66948,
+        "end": 68286,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7538111805915833,
+        "speaker": null
+    },
+    {
+        "text": "Hi.",
+        "start": 68398,
+        "end": 68818,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5325648784637451,
+        "speaker": null
+    },
+    {
+        "text": "Hey, Christopher.",
+        "start": 68904,
+        "end": 70078,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7621796131134033,
+        "speaker": null
+    },
+    {
+        "text": "What are you doing up here?",
+        "start": 70254,
+        "end": 71266,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.867649257183075,
+        "speaker": null
+    },
+    {
+        "text": "I came to apologize for missing our appointment the other day.",
+        "start": 71368,
+        "end": 74082,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5976343750953674,
+        "speaker": null
+    },
+    {
+        "text": "Oh, you didn't need to come up.",
+        "start": 74136,
+        "end": 75490,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5546894669532776,
+        "speaker": null
+    },
+    {
+        "text": "Actually we were in the neighborhood visiting a very close friend of ours.",
+        "start": 75640,
+        "end": 78286,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5397111773490906,
+        "speaker": null
+    },
+    {
+        "text": "And I just wanted to take this opportunity to say thank you for your time.",
+        "start": 78318,
+        "end": 82262,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9448843002319336,
+        "speaker": null
+    },
+    {
+        "text": "I know you probably waited for me a little bit.",
+        "start": 82316,
+        "end": 84966,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7825952768325806,
+        "speaker": null
+    },
+    {
+        "text": "I want you to know that I do not take that for granted.",
+        "start": 85068,
+        "end": 87986,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.646336555480957,
+        "speaker": null
+    },
+    {
+        "text": "No, come on.",
+        "start": 88018,
+        "end": 88854,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5448803305625916,
+        "speaker": null
+    },
+    {
+        "text": "What's that?",
+        "start": 88972,
+        "end": 89960,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7330601811408997,
+        "speaker": null
+    },
+    {
+        "text": "An osteo.",
+        "start": 90890,
+        "end": 91998,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7309255003929138,
+        "speaker": null
+    },
+    {
+        "text": "National bone density scanner.",
+        "start": 92034,
+        "end": 94250,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8154425024986267,
+        "speaker": null
+    },
+    {
+        "text": "A company I bought it to prior to going to work at Whitter.",
+        "start": 94990,
+        "end": 97574,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8696660399436951,
+        "speaker": null
+    },
+    {
+        "text": "I have a meeting after the game.",
+        "start": 97702,
+        "end": 99018,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8724886775016785,
+        "speaker": null
+    },
+    {
+        "text": "You guys are going to the game?",
+        "start": 99104,
+        "end": 100138,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8968917727470398,
+        "speaker": null
+    },
+    {
+        "text": "Oh, yeah.",
+        "start": 100224,
+        "end": 100938,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5585338473320007,
+        "speaker": null
+    },
+    {
+        "text": "Possibly.",
+        "start": 101024,
+        "end": 101930,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7370274066925049,
+        "speaker": null
+    },
+    {
+        "text": "Possibly.",
+        "start": 103230,
+        "end": 104150,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7370274066925049,
+        "speaker": null
+    },
+    {
+        "text": "We're going to I'm taking my son, Tim.",
+        "start": 104310,
+        "end": 105934,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8304813504219055,
+        "speaker": null
+    },
+    {
+        "text": "My twelve year old.",
+        "start": 105972,
+        "end": 106606,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7416141629219055,
+        "speaker": null
+    },
+    {
+        "text": "We were just leaving.",
+        "start": 106628,
+        "end": 107322,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8020989894866943,
+        "speaker": null
+    },
+    {
+        "text": "Tim.",
+        "start": 107386,
+        "end": 107950,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6292240619659424,
+        "speaker": null
+    },
+    {
+        "text": "Listen, we'll get out of your way.",
+        "start": 108100,
+        "end": 110046,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7555499076843262,
+        "speaker": null
+    },
+    {
+        "text": "Again, thank you very much, and and I'm sorry about the other day.",
+        "start": 110228,
+        "end": 112974,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8358814716339111,
+        "speaker": null
+    },
+    {
+        "text": "And I hope that we can reschedule for later this week.",
+        "start": 113012,
+        "end": 115170,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7506183981895447,
+        "speaker": null
+    },
+    {
+        "text": "You got it.",
+        "start": 115240,
+        "end": 115842,
+        "sentiment": "POSITIVE",
+        "confidence": 0.512016773223877,
+        "speaker": null
+    },
+    {
+        "text": "Thank you very much, sir.",
+        "start": 115896,
+        "end": 116882,
+        "sentiment": "POSITIVE",
+        "confidence": 0.970524787902832,
+        "speaker": null
+    },
+    {
+        "text": "You take care.",
+        "start": 116936,
+        "end": 117794,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5491039752960205,
+        "speaker": null
+    },
+    {
+        "text": "Here, come on.",
+        "start": 117912,
+        "end": 118834,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6794121265411377,
+        "speaker": null
+    },
+    {
+        "text": "Say bye bye, Chris.",
+        "start": 118952,
+        "end": 119902,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6146669983863831,
+        "speaker": null
+    },
+    {
+        "text": "Bye bye, Christopher.",
+        "start": 119966,
+        "end": 121730,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5584936141967773,
+        "speaker": null
+    },
+    {
+        "text": "Hey, you guys want to come with us?",
+        "start": 122230,
+        "end": 123860,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6850683689117432,
+        "speaker": null
+    },
+    {
+        "text": "Two candlesticks.",
+        "start": 124950,
+        "end": 125966,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7096125483512878,
+        "speaker": null
+    },
+    {
+        "text": "We're going now.",
+        "start": 125998,
+        "end": 126626,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7862647175788879,
+        "speaker": null
+    },
+    {
+        "text": "Come with us.",
+        "start": 126648,
+        "end": 127174,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5563197135925293,
+        "speaker": null
+    },
+    {
+        "text": "Where are your seats?",
+        "start": 127212,
+        "end": 128150,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.829001784324646,
+        "speaker": null
+    },
+    {
+        "text": "We are upper deck.",
+        "start": 128890,
+        "end": 130610,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6748563647270203,
+        "speaker": null
+    },
+    {
+        "text": "We got a box.",
+        "start": 130690,
+        "end": 131382,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6488017439842224,
+        "speaker": null
+    },
+    {
+        "text": "Come on.",
+        "start": 131436,
+        "end": 131862,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5757858157157898,
+        "speaker": null
+    },
+    {
+        "text": "You want to sit in the box?",
+        "start": 131916,
+        "end": 133174,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7427054047584534,
+        "speaker": null
+    },
+    {
+        "text": "No.",
+        "start": 133372,
+        "end": 134120,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4936187267303467,
+        "speaker": null
+    },
+    {
+        "text": "It's not actually a box.",
+        "start": 135370,
+        "end": 137014,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7068616151809692,
+        "speaker": null
+    },
+    {
+        "text": "It's a private section.",
+        "start": 137132,
+        "end": 139426,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7996832132339478,
+        "speaker": null
+    },
+    {
+        "text": "It's more comfortable.",
+        "start": 139538,
+        "end": 140658,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6122934818267822,
+        "speaker": null
+    },
+    {
+        "text": "You want to go?",
+        "start": 140754,
+        "end": 141800,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8142427206039429,
+        "speaker": null
+    },
+    {
+        "text": "Okay.",
+        "start": 142890,
+        "end": 143734,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5843515396118164,
+        "speaker": null
+    },
+    {
+        "text": "Okay, kids in the back.",
+        "start": 143932,
+        "end": 145720,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7196432948112488,
+        "speaker": null
+    },
+    {
+        "text": "Hey, why don't you just put that in your car?",
+        "start": 146890,
+        "end": 148680,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.622650682926178,
+        "speaker": null
+    },
+    {
+        "text": "Sure.",
+        "start": 153330,
+        "end": 153934,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.47534677386283875,
+        "speaker": null
+    },
+    {
+        "text": "We don't have a car.",
+        "start": 154052,
+        "end": 155440,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5818694233894348,
+        "speaker": null
+    },
+    {
+        "text": "Oh my what happened?",
+        "start": 155810,
+        "end": 157760,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7298492789268494,
+        "speaker": null
+    },
+    {
+        "text": "I think I got stung by a bee.",
+        "start": 158210,
+        "end": 159706,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9313148260116577,
+        "speaker": null
+    },
+    {
+        "text": "You all right?",
+        "start": 159738,
+        "end": 160462,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7758544087409973,
+        "speaker": null
+    },
+    {
+        "text": "Oh, yeah.",
+        "start": 160596,
+        "end": 161680,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5585338473320007,
+        "speaker": null
+    },
+    {
+        "text": "You're not allergic to anything?",
+        "start": 162850,
+        "end": 164030,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6570432186126709,
+        "speaker": null
+    },
+    {
+        "text": "No.",
+        "start": 164100,
+        "end": 164720,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4936187267303467,
+        "speaker": null
+    },
+    {
+        "text": "Where did it get you?",
+        "start": 165730,
+        "end": 166686,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7748839855194092,
+        "speaker": null
+    },
+    {
+        "text": "Like pick me up?",
+        "start": 166788,
+        "end": 167646,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8043348789215088,
+        "speaker": null
+    },
+    {
+        "text": "Back in my head.",
+        "start": 167668,
+        "end": 168640,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6371136903762817,
+        "speaker": null
+    },
+    {
+        "text": "Are you okay?",
+        "start": 169250,
+        "end": 170190,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7917517423629761,
+        "speaker": null
+    },
+    {
+        "text": "Yeah, I'm fine.",
+        "start": 170340,
+        "end": 171086,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8006843328475952,
+        "speaker": null
+    },
+    {
+        "text": "Christopher.",
+        "start": 171108,
+        "end": 171950,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6612474918365479,
+        "speaker": null
+    },
+    {
+        "text": "I'm fine.",
+        "start": 173250,
+        "end": 174110,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7999594807624817,
+        "speaker": null
+    },
+    {
+        "text": "Let me see.",
+        "start": 174260,
+        "end": 174934,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6551273465156555,
+        "speaker": null
+    },
+    {
+        "text": "Christopher, sit back.",
+        "start": 175012,
+        "end": 176680,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7559494972229004,
+        "speaker": null
+    },
+    {
+        "text": "Sit back.",
+        "start": 177450,
+        "end": 177940,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6553053259849548,
+        "speaker": null
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "text": "Sana saka meatwa.",
+        "start": 125090,
+        "end": 135058,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.711092472076416,
+        "speaker": null
+    },
+    {
+        "text": "Sano hano mujit.",
+        "start": 135154,
+        "end": 139410,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7149279117584229,
+        "speaker": null
+    }
+]
